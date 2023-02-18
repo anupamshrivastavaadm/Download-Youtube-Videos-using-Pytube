@@ -1,1 +1,13 @@
-In this Project, you will learn how to create custom QR codes using Python. QR codes have become increasingly popular and are used in a variety of applications such as advertising, product tracking, and event management. This tutorial will guide you through the process of generating custom QR codes using Python libraries such as Pillow and qrcode. You will also learn how to add custom features to your QR codes such as colors and logos. This hands-on guide will give you the skills you need to create custom QR codes for your projects and applications.
+In this Project, you will learn how to write a program in python for downloading youtube videos within a few steps by using the library pytube. 
+
+1. By installing the library pytube using !pip install pytube.
+
+2. Then importing pytube.
+
+3. Step 3rd is writing the url from where you want to download youtube videos.
+
+4. After this write the path or location where you want to locate the file.
+
+By using these steps you can create a file which can download youtube videos easily without visiting any other websites.
+
+Thanks 
